@@ -1,0 +1,11 @@
+id,name,sys_id,address,email_id,phone,dob,process_dttm,sql_type_cd
+11,asd,100001,fghjk,asd@email.com,1234567,09-09-1995,21-09-2023,I
+12,fgh,100002,eyrkj,fgh@email.com,2987654,09-03-1992,21-09-2023,I
+13,jkl,100003,asdwe,jkl@email.com,7652837,25-07-1975,21-09-2023,I
+14,qw,100004,sdwer,qw@email.com,3982463,09-09-1995,21-09-2023,I
+15,ert,100005,gfdewq,ert@email.com,7652983,09-03-1992,21-09-2023,U
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
